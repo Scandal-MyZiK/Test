@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+button {
+    border: none;
+    cursor: pointer;
+}
+
+input {
+    outline: none;
+    border: none;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-size: 14px;
+    line-height: 1.4;
+    color: white;
+    background-color:black;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+}
+
